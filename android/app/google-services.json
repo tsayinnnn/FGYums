@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355044725132",
+    "project_id": "fg---nenet-s-kitchen",
+    "storage_bucket": "fg---nenet-s-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355044725132:android:48aa4749393ac6ba6506a9",
+        "android_client_info": {
+          "package_name": "com.cygntek.fgyums"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vtpHXrTLJGx-fn_LZO8yKMLZPCsX0eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
